@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Rok Perel</text>
+  </docTitle>
+  <docAuthor>
+    <text>Zuzana Brabcová</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>I  Krev, pachy, bílé fidorkya jiné závislosti</text>
+      </navLabel>
+      <content src="Text/rok_perel_006.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>II  Černá skříňka</text>
+      </navLabel>
+      <content src="Text/rok_perel_008.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>III Hezké chvíleve vašem spodním prádle</text>
+      </navLabel>
+      <content src="Text/rok_perel_010.xhtml#toc_marker-3"/>
+    </navPoint>
+  </navMap>
+</ncx>
