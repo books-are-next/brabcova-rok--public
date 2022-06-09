@@ -517,10 +517,14 @@ Lovci perel na japonském pobřeží vydrží prý bez přístrojů pod hladinou
 
 Líbí se mi tu. Už v mládí byla přece komuna mým vysněným sociálním modelem, a navíc jsem tu našla i svoje Běsy. Otevřela jsem je na první straně. Bylo tam motto od Puškina:
 
+  
+
 _Zab mě třeba, stopa všecka  
 ztracena – a cesta s ní!  
 Běs nás vodí do kolečka,  
 po polích nás prohání._
+
+  
 
 Ještě mám trochu peněz, trochu času a pár cigaret. Na jak dlouho? Je to tu fajn, vážně, až na ten plakát na zdi: vím, že symboly jsou jen symboly a znaky jen znaky, ale upřímně řečeno bych přece jen žila radši s výhledem na Marilyn Monroe než na fousatýho kubánskýho revolucionáře.
 

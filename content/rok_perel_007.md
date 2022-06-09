@@ -879,7 +879,11 @@ Markéta už nemohla ani chodit, jak byla zesláblá. Jen kostra potažená ků�
 
 Sbalila si do tašky přes rameno ty svý krásný šaty, v kterejch tu chodila a který na ní plandaly jako zamávání na rozloučenou, a odešla domů umřít hlady.
 
+  
+
 Přišel mi další dopis od Pavla, mého jihočeského melancholika.
+
+  
 
 > _Milá Lucie,_
 
