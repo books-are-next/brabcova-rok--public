@@ -1,9 +1,6 @@
 ---
+title: "III\_Hezké chvíleve vašem spodním prádle"
 contentType: prose
 ---
 
-III  
-   
-Hezké chvíle  
-ve vašem  
-spodním prádle
+

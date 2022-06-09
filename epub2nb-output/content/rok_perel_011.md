@@ -1,14 +1,7 @@
 ---
+title: ''
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
 V ordinaci vládne nebezpečný nepořádek. Každý nepořádek je nebezpečný a vládne. Množství dílčích nepořádků pak zákonitě vyúsťuje v chaos, jak dobře věděl a znázornil Hieronymus Bosch. Je příznačné, že reprodukce jeho Zahrady visí právě zde. Spleť nahých těl působí zdálky bezmála abstraktně – bude si muset po­řídit brýle.
 
@@ -74,19 +67,19 @@ Stál namáčknutý na stěnu, v jedné ruce vyúčtování za telefon a v dr
 
 Zprvu se domníval, když spatřil výši telefonního účtu za minulý měsíc, že se přehlédl. Pak náhle pochopil souvislost obou obálek, účtu a dopisu: nebylo pochyb, že ta druhá obsahuje vysvětlení té první, což zcela samozřejmě ospravedlňovalo její otevření.
 
-Miláčku,
+  
+
+> _Miláčku,_
 
 > _Ty ani nevíš, jak Tě mám ráda. Nebo víš? Ale prd víš! Já už si ani nepamatuju, co mi ta kartářka povídala, skoro jsem jí nerozuměla, mluvila spíš německy než česky a někam si navíc zašantročila protézu a Tys do telefonu pořád o nějaký blondýně, kvůli který Tě v Praze určitě opustím – jsi fakt pitomá. Já už nevím, co bych Ti měla na ty Tvoje bláboly odpovídat. Nemůžeš mě chytat za každé slovo! Připadáš mi pak úplně jako moje matka._
 
-…Ta moje oslava na rozloučenou v hotelu dopadla dost neslavně, když už skoro všichni odešli, vrazil do recepce nějakej Ukrajinec a že chce cigára. Máme zavřeno, řekla jsem, a on na mě vytáh bouchačku, ať s ním jdu okamžitě nahoru na pokoj, že mě už čtvrt roku tajně pozoruje a že beze mě nemůže žít, a pak začal zpívat nějakou ruskou romanci o temných očích, rozbrečel se a kuchař s číšníkem ho vyvedli, no komedie. Znovu jsem si ověřila, že se nebojím smrti, ale prej to byla stejně jen maketa.
+> _…Ta moje oslava na rozloučenou v hotelu dopadla dost neslavně, když už skoro všichni odešli, vrazil do recepce nějakej Ukrajinec a že chce cigára. Máme zavřeno, řekla jsem, a on na mě vytáh bouchačku, ať s ním jdu okamžitě nahoru na pokoj, že mě už čtvrt roku tajně pozoruje a že beze mě nemůže žít, a pak začal zpívat nějakou ruskou romanci o temných očích, rozbrečel se a kuchař s číšníkem ho vyvedli, no komedie. Znovu jsem si ověřila, že se nebojím smrti, ale prej to byla stejně jen maketa._
 
-…Měla bych jít spát, ale pořád myslím na Tebe, na nás. Nedovedu si představit, že bychom si už netelefonovaly, nepsaly si, nelíbaly se, nemilovaly se, být s Tebou je ta nejpřirozenější věc na světě a já nežárlím na nic a na nikoho, protože nic a nikdo kromě nás neexistuje.
+> _…Měla bych jít spát, ale pořád myslím na Tebe, na nás. Nedovedu si představit, že bychom si už netelefonovaly, nepsaly si, nelíbaly se, nemilovaly se, být s Tebou je ta nejpřirozenější věc na světě a já nežárlím na nic a na nikoho, protože nic a nikdo kromě nás neexistuje._
 
-…Říkalas, že tomu nevěříš, ale fakt, přečti si nějakou cha­rakteristiku Blíženců. Já mám jejich vlastnosti ještě zesílené, protože mám i ascendent v tomto znamení. Pořiď si radši střep! Beruško moje, ve středu se uvidíme, přijedu v 11.30 na Knížecí jako obvykle, potřebuju si koupit nový originál levisky, černý a s knoflíčkama, zipy jsou moc rychlý.
+> _…Říkalas, že tomu nevěříš, ale fakt, přečti si nějakou cha­rakteristiku Blíženců. Já mám jejich vlastnosti ještě zesílené, protože mám i ascendent v tomto znamení. Pořiď si radši střep! Beruško moje, ve středu se uvidíme, přijedu v 11.30 na Knížecí jako obvykle, potřebuju si koupit nový originál levisky, černý a s knoflíčkama, zipy jsou moc rychlý._
 
-Tvoje Magda
-
-  
+> _Tvoje Magda_
 
 Tenkrát jsme se s Magdou domnívaly, že se ten dopis někde ztratil. Nevrátila se k němu, protože slova nic neznamenala, byla sladká, vzdušná a pofiderní jako strýčkův krém do kremrole. Na horské dráze se neohlížíme.
 
