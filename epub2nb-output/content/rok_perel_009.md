@@ -729,7 +729,11 @@ O tom nepochybuji: dovedu si představit, že noční služba není v jejím p
 
 Tentokrát jsem si s rozmyslem zavolala jinou taxi službu. Opravdu jsem nechtěla riskovat, že mi zase ten úchylák, jako minule, bude se zvrhlým úsměvem strkat pod nos nemravné fotografie své kuchyňské linky.
 
+  
+
 Kolik je hodin, proboha. Zvedne hlavu. Půl osmý… To není možný. Teprve teď se odtrhla. Na několik hodin ztratila pojem o čase. Zapomněla, že stůl je stůl. A telefony nezvedala. Zhltla všech šest čísel kulturního občasníku pro lesbické ženy a nejen pro ně od A do Z. Ještě jednou si pozorně pročetla článek, život v několika odstavcích, podepsaný jakousi Martou. Jistě pseudonym.
+
+  
 
 > ZPOVĚĎ BISEXUÁLKY
 
@@ -1241,10 +1245,14 @@ Kromě prachů mi máma přinesla taky první díl Běsů, Marek by si je rád p
 
 Hm. Tohle je přesně mámin styl. Tahle nostalgická literární idolatrie. Jistě si se „svým Pavlem“ výborně rozumí. Ještě že se věnuju přírodním vědám. Píšete-li práci na téma Výskyt hypoxantinu v primární sekvenci bází DNA, nebezpečí patosu a sentimentu vám rozhodně nehrozí. Běsy číst nebudu. Mrkla jsem akorát na motto:
 
+  
+
 _Zab mě třeba, stopa všecka  
 ztracena – a cesta s ní!  
 Běs nás honí dokolečka  
 po polích nás prohání._
+
+  
 
 Puškin. Probudila jsem se na matraci vedle Marka, ještě spal, a zlehka přitiskla rty na jeho tetování. Věřím totiž, že to přináší naději: lidem, velrybám i amazonskejm pralesům.
 
