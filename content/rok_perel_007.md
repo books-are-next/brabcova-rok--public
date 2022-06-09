@@ -1,14 +1,7 @@
 ---
+title: ''
 contentType: prose
 ---
-
-  
-
-  
-
-  
-
-  
 
 „Nauč mě všechny sprostý slova,“ zaprosila. Zapomněla snad na tu pomatenou koprolálickou ženskou tenkrát na Karlově mostě?
 
@@ -250,13 +243,13 @@ Vyšla jsem na chodbu. Na lavici seděl další cvok na holení. Dotkla jsem se 
 
 Jakub za mnou chodí obden. Nosí mi dobré vody a bílé fidorky. Tereza nevolala, nic o ní neví. Sedáváme spolu v zahradě na dvou pařezech. Včera mi přinesl dopis od Pavla.
 
-Milá Lucie,
+  
+
+> _Milá Lucie,_
 
 > _strašně rád bych Ti psal do trochu lepších časů, než máš teď, až z Tvého dopisu jsem se dozvěděl, co s Tebou je. Jakub mi nic neřekl, asi to nejde, do telefonu. Já na Tebe myslim každej den, i když to Ti nepomůže. Já teď na týhle stránce nic chytrýho nevymyslim, Lucie, já jen vim, že my dva jsme podobně vnitřně ustrojený, my tohle všechno musíme přežít, lásky a jiný běsy, to, co Tě přejelo, je něco, co spousta lidí nezažila a nikdy nezažije, ale Tebe to nezabilo, tak Tě to posílí, to je ten princip, že když seš dole, díváš se vzhůru, ten sv. Pavel – „když jsem sláb, jsem silný“. Tomuhle věřim, protože takhle žiju, a uvědomuju si, že mam vlastně pevně krytý záda, nemůžeš upadnout, když ležíš. Je to možná blbý nebo blbě řečený. Ty víš, co je to žít na hraně žiletky, já si někdy řikám, jak žiju já, měsíc mě bolí žaludek, obchoduju se stovkama milionů po telefonu, kurzy plavou a je to loterie a je to absurdní, pak sedim na náměstí na pivu, nemyslim na nic, mam takovej rozostřenej pohled, jsem unavenej a pořád ospalej. A nikoho novýho si nechci pustit k tělu, otevřít se někomu, aby mě vykrad, my musíme všechno tohle vydržet, Lucie, Ty se musíš opřít o Terezu a o Jakuba, a je spousta neviditelnejch věcí, který máš a který Ti zase daj řád, a čas je dobrý analgetikum, takhle to prostě funguje. Znáš mě, jakej jsem nenapravitelnej optimista. Lucie, zanedlouho se sejdeme v Praze v lepších časech, přinesu Ti růži, žlutou, jako poprvé._
 
-Tvůj Pavel
-
-  
+> _Tvůj Pavel_
 
 Vedle za rozviklaným nočním stolkem neleží atraktivní nepřístupná bloncka, ale stokilová Miluška, trpící fobií z dopravních prostředků, výtahů a pavouků. Je to netaktní a bezcitné, ta perokresba pavouka na nástěnce. Miluška kolem ní prochází na záchod se zavřenýma očima.
 
@@ -888,23 +881,23 @@ Sbalila si do tašky přes rameno ty svý krásný šaty, v kterejch tu chodila
 
 Přišel mi další dopis od Pavla, mého jihočeského melancholika.
 
-Milá Lucie,
+> _Milá Lucie,_
 
 > _jsem strašně unavenej. Večer se těším, až půjdu spát, to je jediný, na co myslim. Asi mě vysávají monitory počítačů, tahají ze mě sílu a energii, přes podzemní kabely nebo přes družici visim někde v pekle nebo v kosmu. Už jsem si zvykl vracet se za tmy domů, večer dobývá okna vermutem noci až po okraj, jak psal Václav Hrabě, magie zmaru a melancholie, jsem pohlcenej v inženýrských sítích, všechno je protkaný kabelama a rádiovýma vlnama, to je ta moderní magie ve starejch zdech a klenbách, ňákej duch tady pořád musí přebejvat. Věřim tomu, že ten prožitek generací se fakt koncentruje a že si ho předáváme špatnejma genama a událostma, ve střední Evropě, v Čechách._
 
-I když je teplo, je mi furt zima, jsem nervózní, něco mě užírá pomalu jak čas. Chystám se na Célina. Dočet jsem se v knížce od Carolyn Cassady, že Jack Kerouac měl v úmyslu Célina navštívit, když jel do Paříže, musim zjistit, jestli se mu to povedlo, nevim, jestli se o tom píše v Satori v Paříži. Jack byl naštvanej, king of beat generation, dočet jsem se taky v jedný Revolver Revue, že Ginsberg s Burroughsem, když jednou Célina navštívili, málem je sežrali ty jeho psi. Řek jim: Beru je s sebou, když du na poštu, aby mě ochránili před židama.
+> _I když je teplo, je mi furt zima, jsem nervózní, něco mě užírá pomalu jak čas. Chystám se na Célina. Dočet jsem se v knížce od Carolyn Cassady, že Jack Kerouac měl v úmyslu Célina navštívit, když jel do Paříže, musim zjistit, jestli se mu to povedlo, nevim, jestli se o tom píše v Satori v Paříži. Jack byl naštvanej, king of beat generation, dočet jsem se taky v jedný Revolver Revue, že Ginsberg s Burroughsem, když jednou Célina navštívili, málem je sežrali ty jeho psi. Řek jim: Beru je s sebou, když du na poštu, aby mě ochránili před židama._
 
-Šel jsem s kámošem na pivo, před pár měsíci jsme se pohádali po takový pitomý epizodce na tom koncertě, o kterym jsem Ti psal, udobřili jsme se vzpomínáním na naši krásnou černovlásku, co nás dráždila v závodní jídelně jihočeských mlékáren asi tak před pěti lety. Očumovali jsme ji systematicky a uvažovali, co by s ní všechno mohlo bejt, kdyby třeba byla pro. Ale všechno, na co jsme se tenkrát zmohli, že jsme jí pogratulovali k Novýmu roku a uprostřed fronty na jídla jí dali pusu. Kámoš ji pak viděl pozdějc na plovárně, řikal, že jí zaslech, jak se baví s kámoškou a že podle řeči je hloupá.
+> _Šel jsem s kámošem na pivo, před pár měsíci jsme se pohádali po takový pitomý epizodce na tom koncertě, o kterym jsem Ti psal, udobřili jsme se vzpomínáním na naši krásnou černovlásku, co nás dráždila v závodní jídelně jihočeských mlékáren asi tak před pěti lety. Očumovali jsme ji systematicky a uvažovali, co by s ní všechno mohlo bejt, kdyby třeba byla pro. Ale všechno, na co jsme se tenkrát zmohli, že jsme jí pogratulovali k Novýmu roku a uprostřed fronty na jídla jí dali pusu. Kámoš ji pak viděl pozdějc na plovárně, řikal, že jí zaslech, jak se baví s kámoškou a že podle řeči je hloupá._
 
-Z hospody jsme šli ještě do Černýho velblouda, tam dali ňáký kořalky, cítil jsem, že mám dost, pak jsem si všim zajímavý blondýny, co tam tancovala před barem s ňákejma lidma. Začal jsem si s tou holkou povídat. Vypadala, že má na sobě samý černý věci, ale byl to ve skutečnosti prej hnědej svetr, ale mně se zdál černej, taky v Černym velbloudu aby nevypadal černej, ne? Jeli jsme domu nad ránem taxíkem za nekřesťanský prachy, taxikář byl typickej českej člověk, opatrnej v soudech, ale _téměř_ všeho schopnej, povídali jsme si cestou o elektrárně Temelín a jaký holky jsou v Borneu, v tom nightu, prej jsou z Ukrajiny a dělaj to dobře, jak jsem se dozvěděl z podrobnýho vyprávění. Druhej den kocovina, ale nebylo to tak zlý, s těma Tvejma se to srovnat nedá.
+> _Z hospody jsme šli ještě do Černýho velblouda, tam dali ňáký kořalky, cítil jsem, že mám dost, pak jsem si všim zajímavý blondýny, co tam tancovala před barem s ňákejma lidma. Začal jsem si s tou holkou povídat. Vypadala, že má na sobě samý černý věci, ale byl to ve skutečnosti prej hnědej svetr, ale mně se zdál černej, taky v Černym velbloudu aby nevypadal černej, ne? Jeli jsme domu nad ránem taxíkem za nekřesťanský prachy, taxikář byl typickej českej člověk, opatrnej v soudech, ale _téměř_ všeho schopnej, povídali jsme si cestou o elektrárně Temelín a jaký holky jsou v Borneu, v tom nightu, prej jsou z Ukrajiny a dělaj to dobře, jak jsem se dozvěděl z podrobnýho vyprávění. Druhej den kocovina, ale nebylo to tak zlý, s těma Tvejma se to srovnat nedá._
 
-Já už nemůžu psát, Lucie, bolí mě muj tenisovej loket, jsem zasněnej a smutnej. Proč mi někdy nezavoláš? Všechno je magický, podzemní kabely a družice a my v tom všem, magický a ubohý, mišuňk rumu a deště, jak psal V. Hrabě, tak se měj.
+> _Já už nemůžu psát, Lucie, bolí mě muj tenisovej loket, jsem zasněnej a smutnej. Proč mi někdy nezavoláš? Všechno je magický, podzemní kabely a družice a my v tom všem, magický a ubohý, mišuňk rumu a deště, jak psal V. Hrabě, tak se měj._
 
-Pavel
+> _Pavel_
 
 > _P. S. Víš, co bych si teď nejvíc přál? Bejt v Paříži v ňákým hotýlku na Montmartru nebo v Clichy, tam jsme bydleli loni v květnu, když jsme tam byli na výletě. Bejt tam s krásnou blonďatou holkou, která by mě milovala a já jí taky, byla by to ta, co se mi o ní občas zdá, že ona je já, ale to je vlastně bruneta… Ale to je fuk. Byli bysme v hotelu na pokoji a milovali bysme se, v Paříži to musí bejt úplně jiný, myslim, pak bysme šli dolu do recepce a dali tam klíč a šli se courat městem, poseděli v kavárně a dali si víno, ale jen trochu, protože já potom bych… A já bych ze sebe chrlil životopisy malířů jak hydrant, protože já mám všechny v knihovně a v hlavě, dívali bysme se na Paříž a Sacré-Coeur. Koupil bych jí prstýnek, takovej obyčejnej tenkej zlatej kroužek, protože všechno se děje v kruhu, všechno, co je důležitý a věčný. Ta holka by měla ty přiléhavý kalhoty, co se teď nosej všude na světě, černý nebo tmavěmodrý, napadlo mě, že by to mohla bejt bejvalá modelka, a moc by nemluvila a já bych jí řikal francouzský slovíčka z malýho slovníčku, kterej nemám, nebo by to mohlo bejt v Londýně nebo v Římě nebo v Bruggách, to sou krásný města, nebo v Ostende v přístavu. Tohle postscriptum je proklatě dlouhý, takhle proklatě dlouhej je jeden barovej pult, kde maji holky proklatě dlouhý nohy přehozený přes sebe a fernet vrhá okrový prasátka na zdi._
 
-Pozdravuj Danielu, je sympatická.
+> _Pozdravuj Danielu, je sympatická._
 
   
 

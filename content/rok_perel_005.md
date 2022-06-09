@@ -1,9 +1,10 @@
 ---
+title: ''
 contentType: prose
 ---
 
-To nejste vy.
+_To nejste vy._
 
-To jsou jen vaše stíny.
+_To jsou jen vaše stíny._
 
-Takže klid.
+_Takže klid._
