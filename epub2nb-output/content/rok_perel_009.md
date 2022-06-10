@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Máma za mnou přišla do Medúzy. Bylo už skoro půl dvanáctý.
 
 „Děsně tam leje,“ řekla a sklapla prudce deštník.
@@ -69,7 +71,9 @@ Vždycky o sobě tvrdila, asi aby byla ještě zajímavější, že má sklony 
 
 Najednou se na sebe podíváme tou mlhou a obě začneme brečet.
 
-  
+</section>
+
+<section>
 
 Ty časopisy jsem si přinesla domů a začetla se do nich podruhé. Teprve v půl jedenácté jsem si všimla, že u toho upíjím fernet. Cítila jsem, jak s každým novým článkem, s každou novou informací ve mně roste napětí, jako kdyby se mnou zvolna šířila vzpomínka na to nejdobrodružnější a nejpodstatnější, co jsem v životě zažila, a na co jsem přece úplně zapomněla. Jako kdyby se mi vracela paměť po úraze, a z močálu nevědomí se pomalu, obraz po obraze, vynořovala moje utopená oslňující minulost.
 
@@ -93,7 +97,9 @@ Co se to se mnou dělo?
 
 Konečně jedeme. Vůz tiše šumí Prahou, nocí, deštěm. Neznámá bytost, přikurtovaná dosud v mé třinácté komnatě, začala se s chechtotem uvolňovat z řetězů.
 
-  
+</section>
+
+<section>
 
 Terezu jsem naštěstí našla hned v Medúze. Čmoud z trávy se dal krájet. Tereza seděla u stolku s Markem, skláněli se k sobě nad dvěma jistě multivitaminovými džusy a drželi se za ruce. To mě překvapilo: ta nepatřičně romantická důvěrnost v tom odpuzujícím tvrdém prostředí. Kdyby tam souložili, asi by mě to neudivilo, ale tohle… A navíc mé uzavřené, chladné, nesentimentální a věcné dceři padla něha asi jako smoking dalajlámovi.
 
@@ -121,7 +127,9 @@ Když bylo Tereze devět, padl komunismus. Když bylo devět mně, obsadila Prah
 
 Na dně kapsy jsem nahmatala skleněnku. Krásnou. Po pravdě řečeno jsem ji onehdy ukradla jednomu chlapeč…
 
-  
+</section>
+
+<section>
 
 Typický Pijérův fórek: v redakci ji přivítal na stole výstřižek z Večerníku Praha: „TIPY NA VÍKEND: Den otevřených dveří pořádá v sobotu od 9 do 12 hod. krematorium ve Strašnicích. Pohřební ústav hlavního města Prahy zpřístupní veřejnosti technické zázemí krematoria.“ A pod tím: „Hezky si to užij, nekrofilko!“
 
@@ -133,7 +141,9 @@ Pokaždé těsně před usnutím – tajemný automatismus vědomí – vynoř
 
 Vzala skalpel Pijérova bratra chirurga a lehce jím odloupla kousek barvy na tom plátně. Objevily se další a další vrstvy. Dál se neodvážila.
 
-  
+</section>
+
+<section>
 
 „Posaď se. Snad ti nebude vadit, když si budeme tykat.“
 
@@ -199,7 +209,9 @@ Tak Jitka s Bárou budou mít miminko. Oukej, chápu. Už vidím, jak ho křtí
 
 „Já nemůžu mít děti, víš,“ zaklepala zase jehlicemi, „ale Bára… je ve čtvrtým měsíci. Nechala se uměle oplodnit. Ona by s chlapem… no nemohla, prostě. Poprosila jsem o semeno svýho bejvalýho manžela.“ Přistoupila k lednici a rázně ji otevřela. Ukázala na skleněnou nádobu plnou… „Nechceš?“ rozchechtala se, královsky. „Zbylo nám ještě na spoustu dětí.“
 
-  
+</section>
+
+<section>
 
 Doma. Konečně. Strhala jsem ze sebe ty poblitý hadry a lehla si do vany. Se spoustou pěny – pohled na moje tělo, které mi na prahu čtyřicítky začalo vysílat poněkud šokující informace, by mohl znovu rozbouřit můj žaludek.
 
@@ -209,13 +221,17 @@ Zapla jsem diktafon, abych si v klidu koupelny přehrála Jitčino vyprávění
 
 Pijére, ty hade, cos mi to dal za krám? Možná jsem tě měla poslechnout a jít dnes radši na tu exkurzi do krematoria. Radši do krematoria než tam, kde mají v ledničce nádobu plnou nena­rozených.
 
-  
+</section>
+
+<section>
 
 A tak se poprvé setkala s Magdou. Té noci Žižkov páchnul psí srstí a nad ní nebe, černé a navlhlé jako její rolák. V Akropoli předsmrtně chroptěl Jim Čert, utekla. Zamířila do Áčka, jediného lesbického klubu v Praze, poprvé. Úzkost a ostych ten tam. Kdopak by se taky leseb bál s fernetem v krvi a skalpelem v mozku, tedy při ruce.
 
 A tak se poprvé setkala s Magdou, v Áčku na záchodě. Jako kdyby těch hajzlů – v životě, v literatuře a vůbec – už nebylo dost.
 
-  
+</section>
+
+<section>
 
 „Ukaž, máš tady drobek.“
 
@@ -363,7 +379,9 @@ Někdo mě chytil za rukáv. Luboš! Neviděli jsme se sto let, vy­růstali jsm
 
 Když se to vezme kolem a kolem, Jakube, byla to moje první a poslední nevěra. Teplý ženský se nepočítaj.
 
-  
+</section>
+
+<section>
 
 S určitými věcmi se máma nedokázala srovnat: že je mi devatenáct, že umím tři světový jazyky, že můžu cestovat, že mám svou webovou stránku na internetu, že chodím každou neděli s Markem na bowling, že v noci začerňuju sprejema výlohy McDonalda, zatímco ona…
 
@@ -561,7 +579,9 @@ Na příjezdové cestě vedoucí do areálu jaderné elektrárny, jejíž reakto
 
 > _P. P. S. Dočet jsem se dnes v ňákym magazínu, že J.-Y. Cousteau, ten skvělej chlap, co ho určitě pohřběj ve skafandru, byl bratrem toho Cousteaua, na kterýho tak nadává Céline ve svý německý trilogii a kterej byl kolaborant s nacistama a byl odsouzenej k smrti, ale rozsudek nebyl vykonán…_
 
-  
+</section>
+
+<section>
 
 Rozhodla se. Musely tu přece být, musely existovat nějaké stopy, znaky, signály, indicie. Předzvěsti toho, co následovalo, nějaké ověřitelné pukliny v zemi před zemětřesením. Jedině na jejich základě bylo možné rekonstruovat katastrofu. Protože co je to jiného než katastrofa, když se jednoho dne probudíte a zjistíte, že jste někdo jiný. Třeba brouk. Nebo pavouk. Moucha. Řehoř Samsa. Že jste někdo jiný, že vám byl amputován celý dosavadní život: možná vás ještě trochu pobolívá, ale vy dobře víte, že už neexistuje. Vaše identita je napadrť, válí se v prachu příjezdové cesty na staveniště, rozdrcená k nepoznání.
 
@@ -729,11 +749,15 @@ O tom nepochybuji: dovedu si představit, že noční služba není v jejím p
 
 Tentokrát jsem si s rozmyslem zavolala jinou taxi službu. Opravdu jsem nechtěla riskovat, že mi zase ten úchylák, jako minule, bude se zvrhlým úsměvem strkat pod nos nemravné fotografie své kuchyňské linky.
 
-  
+</section>
+
+<section>
 
 Kolik je hodin, proboha. Zvedne hlavu. Půl osmý… To není možný. Teprve teď se odtrhla. Na několik hodin ztratila pojem o čase. Zapomněla, že stůl je stůl. A telefony nezvedala. Zhltla všech šest čísel kulturního občasníku pro lesbické ženy a nejen pro ně od A do Z. Ještě jednou si pozorně pročetla článek, život v několika odstavcích, podepsaný jakousi Martou. Jistě pseudonym.
 
-  
+</section>
+
+<section>
 
 > ZPOVĚĎ BISEXUÁLKY
 
@@ -757,13 +781,17 @@ Kolik je hodin, proboha. Zvedne hlavu. Půl osmý… To není možný. Teprve te
 
 > Když ho ale přešla počáteční vášeň, napadlo ho, že já jsem sice sex potřebovala, ale zdaleka mne tolik nevzrušoval. Nikdy jsem ho neodmítla, ale bylo poznat, že „to“ dělám jenom z lásky k němu. Netoužila jsem po něm jako po muži, a chybělo mi ženské tělo. Proto bych už nikdy nešla do vztahu s mužem. Kdybych našla tu pravou ženu, muž by mi vůbec nechyběl. Ať přijde! (Pokud by mi někdo chtěl napsat na adresu redakce, odpovím všem.)
 
-  
+</section>
+
+<section>
 
 Neodolatelná forma inzerátu. Přistihla se, že čmárá po papíře: Milá Marto, právě jsem dočetla – zmačkala a vyhodila do koše. Ne. Raději pečlivě roztrhala a spláchla do záchodu. Stačilo. Byla nervózní jak pes. Fernet došel. Nepřestávalo pršet. Bouchnutí výtahu. Jakubovo chrápání. Zvláštní zvuk z balkonu, jako by dráp nějakého dravce zavadil o zábradlí.
 
 Vyrazila za Terezou do Medúzy.
 
-  
+</section>
+
+<section>
 
 Jednou jsme se s Magdou octly v úzké uličce někde u Staromáku. Zlodějské pohledy.
 
@@ -895,7 +923,9 @@ Udělala jsem to, i když mi bylo jasné, že jsem překročila hranici, za kte
 
 > _P. S. Tenhle dopis prosím nevláčej měsíce po kabelkách, jak je Tvým zvykem. Mohla bys ho vytrousit, až si budeš někde v heterosexuálním prostředí, a to je téměř všude, vyndavat hřeben, řasenku nebo své milované Shakespearovy sonety v kolibřím vydání._
 
-  
+</section>
+
+<section>
 
 Dopis pochopitelně nedoručen. Neskončil v Renatině kabelce, nýbrž v černé krabici, na niž Lucie nalepila štítek s výhružným vzkazem budoucím generacím: RENATA. PO MÉ SMRTI NEČTĚTE A SPALTE. Jakmile tam ten dopis vhodila, nezůstalo jen u amputace křídel. Na jeden ráz vytlačila si třísku i s hnisem. Vyřízla si Renatu, ufikla srdce jak patku chleba, ani nesykla.
 
@@ -909,7 +939,9 @@ Teprve teď si všimla rybáře, který seděl opodál. Byl to Jakub. Jak dlouho
 
 Odložila časopis, hodila vajgla do řeky. Nebylo co řešit. Vstala a šla k Jakubovi, připlouvala k němu, bolavé pořezané tělo pokryté zlatými šupinami, pevně rozhodnutá splnit mu každé přání.
 
-  
+</section>
+
+<section>
 
 „Odkud voláš?“
 
@@ -983,7 +1015,9 @@ Chtěl-li by průměrně výtvarně nadaný kameraman obrazem vyjádřit můj p�
 
 Ale postupně jsem nabyla přesvědčení, že se mi telefonát s ní jenom zdál, stejně jako nedávné setkání v Áčku. Protože její náhlé vynoření v mém životě bylo asi tak pravděpodobné jako výskyt piraně ve Vltavě.
 
-  
+</section>
+
+<section>
 
 Čekala jsem hodinu, dvě, celé odpoledne. A jestli jsem, paní doktorko Pilátová, nezemřela, čekám na těch jarem vyhřátých schodech vedoucích k chrámu svatého Mikuláše dodnes.
 
@@ -1217,7 +1251,9 @@ Teprve teď jsem si všimla žehlicího prkna. Vyrůstaly z něj čtyři hladk�
 
 Dotkla jsem se Jakubovy žehličky. Byla ještě maličko vlažná. Odměnila mě úsměvem hollywoodské filmové hvězdy, chladnoucím a prázdným, až mrazilo.
 
-  
+</section>
+
+<section>
 
 Probudila jsem se na matraci, vedle Marka. Včera jsem se po dlouhý době sešla s mámou, dala mi pusu a prachy a hned zas letěla. Strašně se jí klepaly ruce. To nebylo nic novýho, ale… Jak to říct, prostě nebyla navoněná. Poprvé, co pamatuju, jsem ji zastihla bez parfému. Něco se dělo.
 
@@ -1225,7 +1261,9 @@ Možná proto se mi dnes v noci zdálo – dost živej sen – o vel­bloudo
 
 Kromě prachů mi máma přinesla taky první díl Běsů, Marek by si je rád přečet. A v tý knize byl založenej dopis adresovanej mámě od ňákýho Pavla a já si ten dopis těsně před spaním přečetla.
 
-  
+</section>
+
+<section>
 
 > _Milá Lucie,_
 
@@ -1241,28 +1279,38 @@ Kromě prachů mi máma přinesla taky první díl Běsů, Marek by si je rád p
 
 > _P. S. Na otázku, jak se mám, odpovídám poslední dobou citátem z písničky Vlasty Redla: „Stále mířím na jihozápad.“_
 
-  
+</section>
+
+<section>
 
 Hm. Tohle je přesně mámin styl. Tahle nostalgická literární idolatrie. Jistě si se „svým Pavlem“ výborně rozumí. Ještě že se věnuju přírodním vědám. Píšete-li práci na téma Výskyt hypoxantinu v primární sekvenci bází DNA, nebezpečí patosu a sentimentu vám rozhodně nehrozí. Běsy číst nebudu. Mrkla jsem akorát na motto:
 
-  
+</section>
+
+<section>
 
 _Zab mě třeba, stopa všecka  
 ztracena – a cesta s ní!  
 Běs nás honí dokolečka  
 po polích nás prohání._
 
-  
+</section>
+
+<section>
 
 Puškin. Probudila jsem se na matraci vedle Marka, ještě spal, a zlehka přitiskla rty na jeho tetování. Věřím totiž, že to přináší naději: lidem, velrybám i amazonskejm pralesům.
 
-  
+</section>
+
+<section>
 
 Ptal jsem se Vrbové, která se hlásí na gymnázium, jestli ví, co to je Gioconda. Odpověděla, že takovej ten tlustej dlouhatánskej had. Ale Lucie se ani neusmála, nevnímala nic z toho, co jsem jí dneska říkal. Stejně netečné jako její mysl zůstaly večer i její bradavky v mých ústech.
 
 „Dnes ne, Jakube,“ řekla jak v nějakym blbym seriálu. Měl jsem pocit, že vedle mě leží místo Lucie jen její torzo. Něco se dělo.
 
-  
+</section>
+
+<section>
 
 „Ty jí máš tak úžasně – přehlednou a čitelnou!“
 
@@ -1312,7 +1360,9 @@ Sehnula jsem se pro džíny, které se válely u postele. Měla jsem v kapse m
 
 Ukradla jsem ty jointy Tereze ze šuplíku. Moje dcera už je ne­potřebovala. Moje dcera už z toho vyrostla.
 
-  
+</section>
+
+<section>
 
 Toliko velké dvojlůžko zde v bytě na Chodově. V bytě prázdném a dokonale uklizeném. Kolikrát jsem jen vyšlapala schody do čtvrtého patra nahoru a dolů, výtah byl v poruše, vynášejíc svinčík po cirkusácích do kontejneru. Kolikrát jsem ponořila ruce v gumových rukavicích do kýble s horkou vodou, strhala tapety, vybílila, aby to tu moje vysněná milenka měla jako klícku. Ale tam pod dvojlůžko, promilované Marcelkou a Vítkem a pak manželským párem, zaměstnanci cirkusů a varieté Praha, krotiteli pudlů, tam se přece jen vloudila hrubka v podobě zapomenutého psího hovna. Jeho přítomnost zde zdála se ještě nepravděpodobnější, fantastičtější a rušivější než představa lidstva ztraceného v jinak pustém, ohromném, rozpínajícím se vesmíru.
 
@@ -1418,7 +1468,9 @@ Na co se to proboha ptá? Co je zas tohle za koketerii? Na jakým zatraceným ka
 
 Zavřela jsem oči. Vedle mě se náhle objevila ta holka, co si típla cigáro do dlaně. Mami, dej, ať cítím bolest, život, sůl v ráně. Když jsem je zase otevřela, v hloubce pod Magdiným úsměvem, pod jejími napjatě pootevřenými rty se zaleskla žiletka.
 
-  
+</section>
+
+<section>
 
 Kde to jsem? Mohla to být hladina jezera. Nebo planetárium. Nebo Sixtinská kaple. Ale v Sixtinský kapli se po zemi neválej prázdný krabičky od menstruačních tamponů.
 
@@ -1466,11 +1518,15 @@ Magda mi podala šaty, ty indické, naštěstí dlouhé. Nebyly zdaleka tak pěk
 
 Spěchala jsem na schůzku s docentem filozofie I. K., který mi měl předat recenzi na nedávno vyšlé Dějiny šílenství. Právě když jsem vycházela, otevřely se na chodbě dveře sousedního bytu. Vyletěla z nich sotva zahlédnutelná vibrující stvůrka, pražský krysařík stižený patrně epilepsií, nemocí světců, a zahryzl se mi vší silou do lýtka.
 
-  
+</section>
+
+<section>
 
 Magda si koupila mobil a nové boty. Na masivním soklu, černé, italské, velmi elegantní. Očichala jsem je: nádherně voněly kůží. Avšak byly jí malé: sotva se doklopýtala na Chodov, nohy sedřené do krve, tvář staženou bolestí a vztekem jak Popelčina sestra. Teď není čas na vzteklinu. Musím jí půjčit kopyta.
 
-  
+</section>
+
+<section>
 
 „Přestaň se brát tak vážně, ty stará rašple,“ ozvalo se mi těsně u ucha. Výsměšný hlas muže v letech, cynika, kterého už nic nepřekvapí, profesí nejspíš protřelého psychiatra, mě probudil.
 
@@ -1590,7 +1646,9 @@ Otočila jsem se. Jeho oči byly velmi vědoucí a velmi bystré. Tu pravdu si 
 
 Labužnicky se usmál: „Tak to musí být nějaká zatraceně vzácná rasa!“
 
-  
+</section>
+
+<section>
 
 Marek vstoupil do zahrady. Hned za branou vřískaly na pískovišti děti, přetahovaly se o plastový samopal na vodu. Jinak tu bylo ticho, strnulé a v sebe uzavřené jak uvnitř vejce, ačkoliv několik desítek metrů za vysokou zdí hřměla křižovatka na Pavláku. Mohla to být rajská zahrada, kdyby se tu neprali ti spratci, kdyby nepatřila k psychiatrické klinice a kdyby tahle literárně odvozená možnost nebyla Markovu neodvozenému myšlení zcela ukradená.
 
@@ -1650,7 +1708,9 @@ Uklidím váš byt! A zdarma! A ve vašem spodním prádle! Vrtalo mi to hlavo
 
 Dva dny nato jsem spěchala na autobusové nádraží, pyšná na krásnou novou sádru. V hlavě mě stále brněly inzeráty. Ačkoli jsem vlekla v batohu tu nejvoňavější pěnu do koupele, bylo mi jasné, že to, co na sebe v dětství bralo podobu tajemného, průzračného jezera, promění se už brzy ve špinavej rybník. Nejela jsem do Krumlova, ale do Sušice. Bohumila Říhu by to patrně popudilo, ale věděla jsem, že Egon Schiele mi tu lež určitě odpustí.
 
-  
+</section>
+
+<section>
 
 „Co to je?“ užasla.
 
@@ -1664,7 +1724,9 @@ V tu chvíli jsem uslyšela praskot. Znělo to, jako kdyby někdo přicházel p
 
 Zabořila jsem hlavu do polštáře a zuby se mi rozcvakaly. Za nic na světě jsem nechtěla zahlédnout v těch puklinách její pravou podobu.
 
-  
+</section>
+
+<section>
 
 „Tak co? Jak bylo v Krumlově s Egonem?“ upadl Pijér na židli a hodil si svoje nohy na můj stůl. Z chumlu tužek vyhrabal bratrův skalpel. K čemu zas? Začal si jím čistit nehty.
 
@@ -1764,7 +1826,9 @@ V obuvi jsem koupila leštidlo na boty. Bez studu, už jsem ani nevěděla, co 
 
 Jen se uculovala na kolemjdoucí, jako by ji to šimralo. Pracovala jsem soustředěně, neusilovala jsem o to, aby byly dokonale čisté, to já sama se stala čistotou a leskem, splynula s předmětem úsilí jako zenoví mistři. Nemělo smysl slovy ti vyznat lásku, pokoušet se domluvit s tebou. Vždyť jsi mě pořádně nikdy neposlouchala, skákalas mi do řeči a mlela věčně svou, neudrželas pozornost na souvětí nepatrně delší, rozsekalas mi život do holých vět, do zkratek a barevných spotů, ale ani to nebylo nic platné: dokázalas vnímat jen obrazy – a tak „čistička bot“ byl jedním z nich.
 
-  
+</section>
+
+<section>
 
 Časem, paní doktorko, to když se definitivně přestěhovala do Prahy, vkročily jsme do absolutní intimity. Chodily jsme před sebou nahé, až jsem přestávala vnímat, kde končí moje tělo a začíná její. Dávaly jsme si jíst a pít, červené víno a minerálku a banány a fazole v tomatě, z úst do úst. Když dostala chuť na malinový jogurt, polila jím celé moje tělo a jedla ho dlouho, vražedně dlouho, dokud se mi zase mezi zuby neoctnul polštář.
 
@@ -1774,7 +1838,9 @@ Jednou, třásla jsem se v kocovině a nemohla se hýbat, mi do­konce…
 
 Podobné situace mě ve chvílích, kdy jsem je prožívala, ani v nej­menším nezarážely. Přítomnost nás vrhala do stavu divošství, bylo to dobré a přirozené, dané a nezaměnitelné. Zpět do naší křesťanské civilizace s jejím uměle vytvořeným systémem mravních norem mě přiváděla až vzpomínka. Tady a teď měla Magda zcela samozřejmé právo brát si, kdykoli se jí zachtělo, mou krev.
 
-  
+</section>
+
+<section>
 
 Zastavila se před výlohou zlatnictví, oči jí zářily, snad zlatem, určitě frankovkou, kterou jsme poobědvaly v restauraci u klatovského náměstí. Motala se a trochu se jí pletl jazyk.
 
@@ -1854,7 +1920,9 @@ Nic jiného mi ani nezbývalo. K čemu se rozhodla, to paličatě dotáhla až 
 
 Pootevřela mě a vnikla dovnitř jako zrnko písku.
 
-  
+</section>
+
+<section>
 
 „To nemyslíš vážně, v tomhle stavu za volant. Prosím tě, pojď na autobus… Samas mi dramaticky líčila ty šumavský serpentýny… A co policajti? Chceš přijít o řidičák?“
 
@@ -1872,7 +1940,9 @@ Zírala jsem jak blázen. Přece jsem ji viděla na vlastní oči pít to víno!
 
 Zpocenou dlaní jsem v kapse drtila krabičku s prstýnkem, svou realitu popírající lásku, která nezačíná a nekončí.
 
-  
+</section>
+
+<section>
 
 „Ale to ste si neměla dělat škodu, pani redaktorko, vážně, a jezte, ste tak hubeňoučká, chudák Diana, že jo, becherovku já ráda, ještě jeden karbanátek, no? Ne? Ale jo! Já jenom nechápu, vy taková vzdělaná, o čem si s tim našim trdlem povídáte? Ta nezaměstnanost mi dělá starost. Kolik je to procent v Praze? Já nevim, jestli se nám tam ta holka uchytí – co myslíte? Tyhle starosti za komunistů nebyly – a co vaše dcera? To jsem ráda, že vám chutná!“
 
@@ -1926,7 +1996,9 @@ Pořád jsem pohledem zkoumala, jak neobyčejně zlikvidovala strýčkovy kolá�
 
 Viděla jsem ji, přehrabovala se tam v batohu – až po chvíli mi došlo, že v tom mém. Za moment stála vítězně před babkou s barevnou fotografií v ruce. Koukla jsem babce přes rameno: na té fotce byl Pavel, můj melancholický jihočeský přítel, plaše se usmívající před sochou Myslitele v zahradě Rodinova muzea.
 
-  
+</section>
+
+<section>
 
 Ano, babka nesnášela hluk, pokud ho nepůsobila sama. Její averze vůči cikánům, komárům a Havlovi se mě zdaleka tak nedotýkala. Sotva umyla nádobí, usnula na gauči za stěnou, již tvořila tenká umakartová přepážka, rozdělující veliký pokoj ve dva menší. Mag­dina část byla svatyní nevkusu, v níž se navíc muselo šeptat. Ve dveřích visel takový ten dřevěný závěs, hnusně chřestící nesmysl, co vás tluče po tváři, kdykoli jdete dovnitř či ven. Ach ano, milovala Madonnu i Liz Taylorovou. Jejich podoby tu visely spolu s profily egyptských královen a sluncem a časem vysátými reprodukcemi Muchy.
 
@@ -1950,7 +2022,9 @@ Magda otevřela hrdě svou skříň. Tohle už tu přece jednou bylo! Projel mno
 
 A to bylo jediné, Jakube, co s tebou Magda měla společného: žehlila si i ponožky.
 
-  
+</section>
+
+<section>
 
 Modré oči malé Terezky. Ale nejen oči: Terezka je celá modrá. Všichni tu mají svou barvu. A já? Ovšem: špinavě bílou prosvítá červeň, připomínám marmeládu pokrytou plísní.
 
@@ -1984,7 +2058,9 @@ I Terezka byla velmi zvídavá. Zvětšovala si zaujatě pijavice sklíčkem, a
 
 Když se můj muž přiblížil k mému tělu, podala mu Tereza lupičku a s divokým nadšením zašeptala: „Koukni se, koukni se dobře na TUHLETU – vidíš? Má lidskou tvář.“
 
-  
+</section>
+
+<section>
 
 Jako když někdo přelamuje nohou větve na oheň, probouzí mě praskot. Aha. Toť střeva té báby. Leknu se, že jí patří tělo, vpletené do mého. Ne: ona tam za tenkou stěnou, zde její vnučka, tiše spící, jen temné bradavky na stráži noci.
 
@@ -2078,11 +2154,15 @@ Najednou – bylo to tak nečekané – se Magda rozpřáhla a rozmázla můr
 
 Uviděla jsem Vítkovu Marcelku, jak na břehu Berounky rve kosatec, a vzápětí ho odhazuje do trávy. Všechno se ve mně rozbrečelo. A tehdy poprvé mě prudce probodla touha ji zabít, touha, která chutnala v ústech jak pryskyřice, jíž se nepodobá nic na tomto světě.
 
-  
+</section>
+
+<section>
 
 „Zděšeně jsem prchal z pokoje, prchal jsem z domu. Když jsem ujížděl po staré hrázi, bouře dosud běsnila. Náhle šlehlo přes cestu ohnivé světlo. Ohlédl jsem se; chtěl jsem se podívat, odkud se vzala ta neobyčejná záře, vždyť za mnou byl jen ohromný dům a jeho stín. To měsíc tak zářil, zapadající, krvavě rudý měsíc v úplňku – jasně prosvítal trhlinou v domě, dříve sotva rozeznatelnou, táhnoucí se klikatě od střechy k základům. Jak jsem na ni upřeně hleděl, začala se rozsedlina rychle šířit; vtom zadul mocný vítr a do očí mi zableskl celý kotouč měsíce – hlava se mi zatočila závratí, když jsem viděl, jak se mohutné zdi rozpadají. Pak se ozval táhlý, burácivý řev jako hlas tisícerých vod – a hluboký, černý močál u mých nohou se chmurně a teskně zavřel nad troskami domu Usherů.“
 
-  
+</section>
+
+<section>
 
 Všichni odešli. Jen po Pijérovi tu zůstala na mém stole propiska s prsatou blondýnou, kterou si tu zapomněl. Chvíli jsem hledala na internetu – s internetem mě naučila zacházet Tereza – lesbické stránky. Bylo tu pár inzerátů a pozvánka na parník, tradiční jarní plavbu po Vltavě, pořádanou A-klubem. Konala se předevčírem. Škoda. A taky poezie, několik nepůvodních, sentimentálních, ukňouraných básní.
 
@@ -2124,7 +2204,9 @@ Zavírám oči a bloudím palácem banalit, oslněná, zpitomělá, uvězněná
 
 Vytiskla jsem dopis a rozložila listy po stole. Jako v dětství, nehybná, bez mrknutí oka jsem je hypnotizovala snad hodinu. Bylo to nepochopitelné, ale ani se nezachvěly.
 
-  
+</section>
+
+<section>
 
 > _Milá Lucie,_
 
@@ -2150,7 +2232,9 @@ Její schopnost proměny mě uváděla v úžas: když jsem ji ráno spěchala 
 
 Nemělo smysl pokoušet se něco pochopit.
 
-  
+</section>
+
+<section>
 
 Poloprázdné večerní metro. Advent, zima, venku úporné, zaryté mžení. Stanice Kačerov. „Vystupuješ?“
 
@@ -2213,3 +2297,5 @@ A tady kolem bezpočet prázdných krabic od červeného vína. V náhlém zá
 Lucie zprvu nechápala, čím se mezitím pokryla země. Zatímco obracela palačinky, vysmívala se otci, spala, neodrážela se v zrcadle a zazdívala, umrzlo na ulicích mžení v souvislý ledový povlak. Chtěla stihnout poslední noční metro, kolikrát už tudy letěla od horké milenky podél chladných panelových zdí (nebo naopak?), podél kotelny, parkoviště, restaurace až k obchodnímu domu Billa, míjejíc jen ojedinělé zjevy krysaříků a notoriků – dnes to však nebylo možné. Udělala dva kroky a šla k zemi. Rozběhla se, ujela dva metry a přistála na zadku. Vstala a spadla. Vstala a spadla. Zas a znova, až nakonec zůstala bezmocně ležet.
 
 Ležela klidně. Už nespěchala. Led bůhví proč voněl shnilými broskvemi a na špinavém, zhasnutém nebi pózovala Marilyn Monroe, ačkoli o ni nikdo nestál. Ne, Lucie nebyla unavená. To ona sama se stala Únavou, zlou, vlezlou a zrádnou jako ten náhlý led, s nímž teď splývala.
+
+</section>

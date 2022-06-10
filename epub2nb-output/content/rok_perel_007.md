@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Nauč mě všechny sprostý slova,“ zaprosila. Zapomněla snad na tu pomatenou koprolálickou ženskou tenkrát na Karlově mostě?
 
 Měsíc si opíral svou kulatou bradu o zábradlí balkonu a civěl na jejich nahá těla bezelstně jako mongoloidní dítě. „Nauč mě všechny sprostý slova, ty nejtvrdší, co znáš.“
@@ -15,7 +17,9 @@ Otočila se k němu zády, podepřela si hlavu rukou a v tu chvíli do ní vn
 
 Vyrůstala totiž s intelektuálně zaměřenou matkou, a tak slova, která se jí drala z úst v dospělosti v těch dosud nemnohých chvílích rozkoše, nehřměla řečí podvědomí, nýbrž šustila jejich knihovnou.
 
-  
+</section>
+
+<section>
 
 Natáhla se přes něj ke stolku. „Podej mi, prosím tě…“
 
@@ -87,7 +91,9 @@ Když se konečně přestal smát, vytrhala mu všechny vlasy, navázala pečliv
 
 Ráno před zrcadlem, v němž se odrážela, zadrmolila svahilsky, protože s kartáčkem v puse: „No potěš pámbu, jestli mě někdo píše. Ještě že příběhy neexistujou.“
 
-  
+</section>
+
+<section>
 
 Prodírám se davem. Ohromné náměstí, nádražní hala, zábavní park – kde jsem? Každý tu má u ucha mobil. Ženy i muži vzrušeně a důrazně artikulují, pokyny jsou stručné, informace v holých větách, je to hloupé, ale představuji si obří elektrický kráječ, od něhož odpadávají slova, tvořící původně smysluplný celek jako jednotlivé plátky salámu. Možná jsem se octla v kosmickém navigačním centru.
 
@@ -95,7 +101,9 @@ A pak náhle pochopím, že si ti lidé volají vzájemně. Jeden druhému. Vš
 
 Ne, nemůžu už s tebou mluvit. Zakázali mi to a nejsem si už ani, po tom roce, jistá tvou existencí. Chci ti jen nechat vzkaz na záznamníku. A dobře vím, že jeho délka nesmí přesáhnout jednu minutu.
 
-  
+</section>
+
+<section>
 
 Když se to vezme kolem a kolem, Jakube, byla to moje první a poslední nevěra. Utkvěla mi v paměti snad jenom kvůli Igorovi – však víš. Zatímco můj náhodný milenec poléval svou hruď coca-colou, lila jsem do sebe výjimečně dobrý a výjimečně hořký fernet ve výjimečném množství. Jenom tato trojí výjimečnost mohla způsobit, že mě napadlo vyškemrávat na něm v posteli vulgarismy.
 
@@ -139,7 +147,9 @@ Prorazila jsem zuřivě zeď té mlhy zvednutou paží, na níž mi pořád dře
 
 Svou ruku se zaťatou pěstí stále ještě ztracenou v mlze, ucítila jsem, jak mi po zápěstí naposledy přejel Igorův jazyk.
 
-  
+</section>
+
+<section>
 
 „Tohle nezvládneš. Tohle sama nezvládneš. Co mám sakra dělat? Kam mám zavolat? Do prdele!“
 
@@ -167,7 +177,9 @@ Za několik minut promluvila klidně, srozumitelně, s typickou ironií v hlas
 
 Bez jeho vůle. Bez jeho vůle, sama mu vyletěla ta ruka a on ji vší silou udeřil do tváře. Poprvé v životě. Pak mu konečně vyhledala to telefonní číslo a dostala zdravou barvu.
 
-  
+</section>
+
+<section>
 
 Sedím na lavici, těsně za zády žhnoucí ústřední topení. Proč? Je přece červen. Aspoň myslím. Teplé dni. A přece se třesu, nedá se to zastavit. Je mi příšerná zima, jako by mě definitivně šoupli do mrazáku. Před nedávnem jsem přece byla s Terezou na knižním veletrhu. V tuto chvíli mi neolit připadá pravděpodobnější. Nechala jsem si tam podepsat kalendář s reprodukcemi fotografií Jana Saudka, i s věnováním k narozeninám. Mým ne. Manýrismus na entou. Potkala spoustu známých, zakomunikovala si jedna radost. Byli jako stíny. Už víc než rok byli všichni mí přátelé jako fantomy sebe samých, vetknuti do staré neživé fotografie, polozapomenuté pohlednice z minulosti, přestože jsem s nimi byla tady a teď. Nemohli za to. Celou mou přítomnost měl zkrátka pevně sevřenou v hrsti někdo jiný.
 
@@ -243,7 +255,9 @@ Vyšla jsem na chodbu. Na lavici seděl další cvok na holení. Dotkla jsem se 
 
 Jakub za mnou chodí obden. Nosí mi dobré vody a bílé fidorky. Tereza nevolala, nic o ní neví. Sedáváme spolu v zahradě na dvou pařezech. Včera mi přinesl dopis od Pavla.
 
-  
+</section>
+
+<section>
 
 > _Milá Lucie,_
 
@@ -339,7 +353,9 @@ Celý pokoj ztichl a visel na mně očima. Začala jsem pomalounku strhávat tu
 
 Tak tohle je MŮJ blesk. MOJE story. Žádnej Hollywood: prostě můj příběh o tom, jak jsem začala na radu jedný slepý holky vyhánět zombie banánama.
 
-  
+</section>
+
+<section>
 
 Před trafikou stojí dva chlápci v kombinézách Telecomu. Jeden z nich se k ní pootočí profilem. Sevře se jí žaludek. Je to Igor, ten Jouda z Máslovic. Zase on. Nestalo se jí to poprvé, že ho potkala po jeho smrti. Už několikrát zahlédla v davu jeho záda, v projíždějící tramvaji jeho tvář, odulou rumem a pocitem viny. Vyhrnula si rukáv: předloktí bylo samozřejmě bez myšáka, jizvy na zápěstí do růžova.
 
@@ -437,11 +453,15 @@ Nůžkama, jimiž jsem před chvílí rozstřihávala gázu na odběry, jsem je 
 
 Pod oknem ležela ta plachá mlčenlivá babka. Nevěděla o ničem; nic o krvi, nic o prasklých strunách, nic o pomstě. Celý thriller prospala, bezpečně přikrytá Ztracenými iluzemi.
 
-  
+</section>
+
+<section>
 
 V ty první dny jsem nejenom nemohla jíst. Ještě větší problémy mi dělalo něco jiného. Příšerně jsem se bála chodit na záchod. Nesnesla jsem prostě pohled na svou… Už jsem zapomněla, jak se to řekne slušně. Když jsem ji jen zahlídla, vymrštila mě z prkýnka prudká vlna odporu, jako by mi odtamtud vypadávali červi. Takoví, který si Jakub brával na ryby. Jednou se mu v předsíni vysypali na koberec a Tereza, mohly jí být tak dva tři roky, dostala hysterický záchvat.
 
-  
+</section>
+
+<section>
 
 Nemůžu usnout. Všechny abstinenční příznaky, které mi prorokovala Pilátová, se naplňují beze zbytku, snad až na ty dočasné ztráty orientace. Zorientovaná jsem perfektně a trvale, v prostoru i v čase. Na rozdíl od Pepy. Ten si tuhle vyrazil z Karláku na Pavlák a vrátil se úplně vyčerpaný po čtyřech hodinách přes Kobylisy. Jen občas ztracená poněkud v džungli událostí, které se staly, musím vylézt na nejvyšší strom a porozhlédnout se, v jedné ruce miniaturní diář a v druhé plán Prahy. Adresu na další dopis mi ochotně nadepsala čtenářka uspávajících románů dokonale roztřeseným stařeckým písmem.
 
@@ -503,11 +523,15 @@ Začali se líbat a objímat, trochu nemotorně v těch podmínkách. Cítila 
 
 Sáhla jsem si tam dolů. Vzrušení mi teklo i po stehnech. Ve třech jsem to nikdy nezkoušela, napadlo mě, a musela jsem se zahryznout do vlastní ruky jako vlk. V dětství jsem byla zamilovaná do Jacka Londona. Jako vlk, aby mě neprozradily vzdechy rozkoše, která mě náhle zaplavila, jako bych jediným úderem rozbila akvárium.
 
-  
+</section>
+
+<section>
 
 Musíš počítat s tím, že čas od času se ty bolesti budou vracet, přepadnou tě náhle a bez předehry jako záchvat, v tunelu mezi dvěma zastávkami metra, uprostřed rozhovoru s přáteli, až po­otočíš klíčkem u schránky na dopisy, na prkýnku nádražního záchodku, v obuvi před vyrovnanou řadou černých lakovek, ta vůně kožených pásků a kabelek, parfém, co tě právě minul v davu Na Můstku, smrad chcanek z průjezdu na Žižkově, tvůj vlastní pach, který ti utkvěl na prstě – srazí tě to na kolena nečekaně a zákeřně jedinou ranou a z krku se ti bude drát psí vytí – rozkoš a bolest se prolínají jako prsty při modlitbě – abys to vytí udržela uvnitř, musíš si vrazit pěst mezi zuby a prudce skousnout, střídej hluboký dech a výdech a rychlé psí dýchání jako při porodu, jako když z tebe před osmnácti lety páčili Terezu, a hlavně se nemodli, vydrž to, nemodlit se, protože pánbůh má jiný starosti a ono to za několik nekonečných minut přejde samo.
 
-  
+</section>
+
+<section>
 
 Sedíme s Jakubem v zahradě na pařezech. Míjí nás šest potomků paní Plíškové, jdou na návštěvu, úzkou asfaltkou mezi keři jeden za druhým, takže vypadají jako Panova flétna.
 
@@ -611,7 +635,9 @@ Nejdřív musím, jako obvykle, nakrájet maso Petře.
 
 Druhej den večer stála plechovka opravdu na svým místě. Heinz Beans in Tomato Ketchup. Nová, plná fazolí, zavřená, s cenovkou na víčku. Chudák Jirka. Drsnej fór.
 
-  
+</section>
+
+<section>
 
 Jsem v mámě. Pozoruju ji a očichávám zevnitř. Zdá se mi, že se její pach změnil, přibyl mu nějaký nový odstín. Trochu se tu po­rozhlídnu: proplouvám obratně mezi tepnami vzhůru, míjím její vnitřnosti, labyrint střev a játra a slinivka a žaludek… Všechny ty orgány jsou živé a krásné a hučí hlubokým ÓM vesmíru.
 
@@ -697,7 +723,9 @@ A teď mě budí ta stokilová zlodějská parfumerie! Zabouchnu za ní dveře 
 
 „Na skupinu, Miluško! Vzhůru na skupinu!“ zavelela jsem, vy­skočila z postele a energicky vklouzla do džín: chodidla, kotník, lýtka, stehna – ne, nebudu trestat svoje tělo. Ještě se mi bude hodit.
 
-  
+</section>
+
+<section>
 
 Přišel mě navštívit Pavel. Nevšiml si mě, uviděla jsem ho první; bezradně přešlapoval naproti sesterně před nástěnkou. Pavouk ho zaujal, to bylo patrné. Pak si četl ty chytrý rady do života pro sebevrahy, jako že na Nuselák si vemte teplou obuv, protože byste mohli nastydnout od nohou.
 
@@ -749,7 +777,9 @@ Večer mi pořád ještě ležela na posteli ta žlutá růže. Ty víš všechn
 
 Pokoj byl prázdný, jenom slepá Petra vybrnkávala na španělku flamenco. Zalezla jsem si s tou růží pod deku a líbala se s ní a ob­jímala ji tak dlouho, dokud moje stehna a tvář a ruce nebyly od jejích trnů samá krev.
 
-  
+</section>
+
+<section>
 
 Ve vrátnici visela na telefonu ženská. Taková mladá panička, prsatá a celá do kulata, v nemoderních květovaných šatech. Na první pohled účastnice zlevněného dvoudenního zájezdu z Máslovic do Prahy. Na druhý taky. Prolítnout Hradem, zkouknout Gotta v Muzeu voskových figurín, vybílit Holešovickou tržnici, hurá domů a pak dávat na návsi hádanku: „Jestlipak víte, kolik nohou má zvednutejch ten kůň na Václaváku?“
 
@@ -811,7 +841,9 @@ Co se stalo? Nebo je ta úzkost v matčině hlase jenom projekce té její?
 
 Zkusí to obrátit: něžné banány a shnilé doteky. Ale i v šatech surrealismu to zavání škvárem. Raději se jde přezout do adidasek a zaběhat si do zahrady.
 
-  
+</section>
+
+<section>
 
 Anorexie, česky nechutenství, ztráta chuti k jídlu. Naopak při tzv. bulimii bývá chuť k jídlu chorobně nadměrná. Česky se bulimii říká vlčí hlad (viz Jack London; neplést si s Jackem Kerouacem, natož s Jackem Rozparovačem).
 
@@ -867,7 +899,9 @@ Chtěla jsem být taky už čistá, očištěná, tam tehdy na té chodbě vedle
 
 Chtěla jsem patřit k rodu žlutých růží, k té nepřístupné a chladné dynastii, a neměla páru o tom, že ten nejsmradlavější rybník mě teprve čeká.
 
-  
+</section>
+
+<section>
 
 Markétu dnes poslali domů.
 
@@ -879,11 +913,15 @@ Markéta už nemohla ani chodit, jak byla zesláblá. Jen kostra potažená ků�
 
 Sbalila si do tašky přes rameno ty svý krásný šaty, v kterejch tu chodila a který na ní plandaly jako zamávání na rozloučenou, a odešla domů umřít hlady.
 
-  
+</section>
+
+<section>
 
 Přišel mi další dopis od Pavla, mého jihočeského melancholika.
 
-  
+</section>
+
+<section>
 
 > _Milá Lucie,_
 
@@ -903,13 +941,17 @@ Přišel mi další dopis od Pavla, mého jihočeského melancholika.
 
 > _Pozdravuj Danielu, je sympatická._
 
-  
+</section>
+
+<section>
 
 Z dopisní obálky jsem ještě vylovila z něčeho vystřiženej rozhovor s Woodym Allenem. Byl celej o ženskejch. Četla jsem: „Víte, věkový rozdíl mezi starším mužem a mladší ženou, nebo naopak, není tak strašně důležitý. Spíš se daleko častěji zapomíná na význam role, jakou hrají kulturní a intelektuální faktory. Bez ohledu na sexuální stránku platí jedno: není-li dvojice kulturně kompatibilní, její vztah čekají problémy. Mazlit a laskat se můžete jen do určité míry, ale pak spolu stejně budete muset začít mluvit.“
 
 Četla jsem si tu pasáž furt dokola, jako kdybych z ní měla od­poledne maturovat, a v hlavě mi zněl hlas, ta krutá věta o mém věku, k níž jsem měla zakázáno se vracet.
 
-  
+</section>
+
+<section>
 
 Sedíme s Jakubem naproti sobě v zahradě na pařezech. Tenhle měsíc je opravdu nezvykle horký, plný čistě umytých barev. Myslím na to, jak se ty barvy blíží k Petře a jak jí pod víčky houstnou v tajemnou tmu.
 
@@ -931,7 +973,9 @@ Nebo skleněnka? Už si nevšímám Mobila, jara, barev. Vidím kousek masa vibr
 
 Babka u okna už zase spí, přikrytá rozevřenou knihou. Mrknu na obálku: je to neuvěřitelný, že některý lidi dokážou uspat i Běsi.
 
-  
+</section>
+
+<section>
 
 „Doneslo se mi, že odmítáte chodit na psychogymnastiku. Proč?“ zaútočí na mě při vizitě Pilátová. Ještě že má ty brejle. Jinak už bych padla probodená k zemi.
 
@@ -1013,7 +1057,9 @@ Pobaveně zakejhala a zničehonic mě jemně líbla na tvář.
 
 Otočila jsem se. Za námi šla terapeutka. Pozorovala nás, evi­dentně. Ale bylo mi to jedno. Už jsem se těšila, až Danielu naučím s láskou jíst bílé fidorky.
 
-  
+</section>
+
+<section>
 
 V čekárně seděla stará žena. Byla drobounká a bylo jí sedmdesát let. V čekárně seděly samé ženy. Staré i mladší. Byla tam dokonce jedna velice mlaďounká dívka.
 
@@ -1025,7 +1071,9 @@ Opravdu to nebylo zrovna nejvhodnější, smát se nad Poláčkem v čekárně 
 
 Ta stará žena byla moje matka.
 
-  
+</section>
+
+<section>
 
 Dnes patřila skupina Pepovi. Seděli jsme, jako vždycky, do kruhu na bílých plastikových židlích, každý před sebou na zemi jmenovku s křestním jménem. Až po chvíli jsem si všimla, že přede mě Pepa omylem postavil TEREZU. Nebyl ve svý kůži, na první pohled.
 
@@ -1111,7 +1159,9 @@ Slyším Jakuba, jak na mě řve, pan učitel, můj buddhista – „Ty krávo 
 
 Jdu si s paní Hankou zaběhat do zahrady. Naposledy. Obě máme na nohou adidasky. Paní Hanka se usmívá, je v pohodě. Ještě se nezačalo stmívat.
 
-  
+</section>
+
+<section>
 
 Tehdy, pět dní po prvním rozhovoru s Pilátovou, mě na skupinu dovlekla Petra. Opírala jsem se o tu slepou holku a nechala se vést do patra po schodech. Sama bych to nezvládla. Bylo to ještě příliš brzo po jejím zázračném banánu, který se teprve stal začátkem nového letopočtu.
 
@@ -1143,7 +1193,9 @@ Ještě chvíli jsem žvanila o svým ideálním šéfovi a manželovi, dokud 
 
 Dostala jsem v tu chvíli strašnou chuť na panáka. Fakt smrtelnou, jak Igor. Na fernet, co hází u baru po zdech okrový prasátka. Lavinou si ke mně razil cestu ohromnej bernardýn a měl ho na krku celej soudek.
 
-  
+</section>
+
+<section>
 
 Ale její příběh se nepodobal prstýnku. Měl svůj počátek jako úsečka. Tím bodem bylo jedno loňské květnové pondělí. Před rokem… Jak krátká doba! Pouhých dvanáct menstruací, uchechtla se.
 
@@ -1199,7 +1251,9 @@ Pečlivě si opsala adresu a telefonní číslo té šéfredaktorky. Černou pr
 
 Pršelo. Už třetí den. Deštivej květen. Když se vracela domů, do toho svého paneláku, kde spala spolu s dvě stě třiceti cizíma lidma, poskakovala jako ožralá, až ji kabela s časopisama mlátila do boku. Chodník byl totiž plnej žížal.
 
-  
+</section>
+
+<section>
 
 „Dobře, když na tom trváte. Násilím vás tu držet nemůžu. Příčetná pravděpodobně jste.“ Pilátová si čistí brýle cípem pláště, uvolněně a nevzrušeně, jako kdybych z té místnosti, kde visí na zdi Zahrada rozkoší, už dávno odešla.
 
@@ -1244,3 +1298,5 @@ Akvárium. Na nástěnce naproti sesterně visí vedle pavouka můj schielený p
 Na zádech batoh, na krku čtyřicítku, zpívám si vesele ZIZA-ZIG-AH. Ale i kdyby mi táhlo na osmdesát, jedno vím jistě: že si hned zítra půjdu koupit ty přiléhavý kalhoty, co se teď nosej všude na světě, černý nebo tmavěmodrý.
 
 Žádná dezorientace: jdu teď na Pavlák a metrem domů, kam určitě dorazím, i kdybych to vzala omylem přes Transylvánské Alpy.
+
+</section>
