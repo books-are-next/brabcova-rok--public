@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 V ordinaci vládne nebezpečný nepořádek. Každý nepořádek je nebezpečný a vládne. Množství dílčích nepořádků pak zákonitě vyúsťuje v chaos, jak dobře věděl a znázornil Hieronymus Bosch. Je příznačné, že reprodukce jeho Zahrady visí právě zde. Spleť nahých těl působí zdálky bezmála abstraktně – bude si muset po­řídit brýle.
 
 Když sem šel, jakýsi kulhavý chlapík s výrazem Napoleona ho málem skřípnul v lítačkách a malé děvčátko, evidentní katatonička, mu polila nohu vodou z konve. Hloupost, v ničem nepřipomíná Buddhu, ta doktorka naproti. Je to typická uštvaná ženská, která nestíhá, a zpomalená je farmakama, nikoliv poznáním. Než k ní Jakub vešel do ordinace, vyhlédl na terasu, jestli tam nesedí Lucie. Oslnilo ho ale slunce, a tak tam spatřil jenom stíny.
@@ -67,7 +69,9 @@ Stál namáčknutý na stěnu, v jedné ruce vyúčtování za telefon a v dr
 
 Zprvu se domníval, když spatřil výši telefonního účtu za minulý měsíc, že se přehlédl. Pak náhle pochopil souvislost obou obálek, účtu a dopisu: nebylo pochyb, že ta druhá obsahuje vysvětlení té první, což zcela samozřejmě ospravedlňovalo její otevření.
 
-  
+</section>
+
+<section>
 
 > _Miláčku,_
 
@@ -89,7 +93,9 @@ Jakub si dal v hospodě zvané Uterus malé pivo a pak pomalu scházel k nám
 
 Jak mohla? pomyslel si s úžasem. Copak nepochopila, že TĚLO je PAST? A ve chvíli, kdy se v něm slova, přejatá i vlastní, dozrcadlila, odstřihl definitivně sám sebe od své ženy. Aby však zůstala v nevědomosti, bílé fidorky a dobré vody jí do hotelu California nosit nepřestal.
 
-  
+</section>
+
+<section>
 
 Druhý den po návratu z hotelu California se mi zdál sen. Šla jsem s mámou po Václaváku, od koně dolů k Baťovi. Byla do mě zavěšená, drobounká stará žena vykukující z nemoderního kožichu, zatímco já měla na sobě bůhví proč ty příšerné růžové šaty půjčené od Renaty, v nichž jsem se vdávala.
 
@@ -175,7 +181,9 @@ Vůbec jsem nechápala, o čem to mluví. Nebo až příliš?
 
 „Přece s tebou,“ odpověděla jsem udiveně. „Já jinou pani nechci.“
 
-  
+</section>
+
+<section>
 
 Ale nebylo to o snech, když jsem se vrátila z hotelu California. Na uvítanou mě objalo vedro, div jsem nevypustila duši. Teploty v tom červencovém týdnu přesahovaly 36 stupňů Celsia, na balkoně už nešustil dráp, ale uschlé fazole jak paměť.
 
@@ -225,7 +233,9 @@ Nervózně uťal můj monolog: „Tak jo, stav se určitě, něco vy­myslíme.�
 
 Oblékla jsem si Tereziny kraťasy a tričko Vaříme s konopím a vyrazila na Poříčí. Vedro zpomalilo Prahu v maloměsto. Za skleněnými pulty v Annonci seděly opálené slečny v bílých tílkách, jedna měla na paži vytetovaný hmyz, něco mezi beruškou a skarabeem. Přistoupila jsem k ní a podala si inzerát. Nikoli však, jak by se dalo předpokládat, do rubriky PRÁCI HLEDAJÍ, nýbrž ONA HLEDÁ JI, HEZKÉ CHVÍLE. Kdybych byla mazaná, daly by se ovšem zabít dvě mouchy jednou ranou: mohla jsem se nabídnout, že vám uklidím byt ve vašem spodním prádle.
 
-  
+</section>
+
+<section>
 
 Třas sice trvá, ale lehce nahrbená široká záda v bílém plášti, mo­mentálně nejvýznamnější část doktorky Pilátové, mě uklidňují jako zimní zátiší, zasněžená pláň s dobrotivým ledním medvědem. Jarmarkem chlípnosti, co doktorce visí nad hlavou, se z míry vyvést nenechám.
 
@@ -263,7 +273,9 @@ V trávě před námi ležela věc, zaleskla se v slunci. Dost divný… Zvedl
 
 Zvedla jsem oči k nebi. Parníky pluly i tam.
 
-  
+</section>
+
+<section>
 
 A následující dny, nikdy jsem nezažila nic podobného: povrch času zřetelně, hlasitě pukal a z těch puklin se nořily hrany parníků, uvízlých v ledu.
 
@@ -277,7 +289,9 @@ I tentokrát se v pátek chystala do Sušice. Pomoct prý babce s malováním
 
 Ale Magda jen pohrdavě, bez úsměvu mávla rukou. Někdy mi připadalo, že její sebeovládání zavání psychózou. Spíš křižník Potěmkin než Titanic. Anebo ponorka. Žlutá.
 
-  
+</section>
+
+<section>
 
 Třiadvacátého května v 11 hodin postávala moje dcera s partou před Výstavištěm. Mecha měla na oranžovo a v obočí zlatou pecičku. Pohladila jsem ji po tom mechu a kámoši – Marek co pravá gorila v tmavých brýlích a v pozadí jako vždy – mě sledovali lhostejně shovívavými pohledy. Ten Terezin byl pro mě nečitelný jak runy. To Magda vsunula mezi mě a mé blízké lupu, deformující podstatné a zveličující drobnosti – berušku, kapku krve, angličák, její vlas. Skutečnost i s mou dcerou se proměnila v můru rozmázlou v síťce: znaky na jejím hřbetě, které mohly být klíčem, splynuly s vnitřnostmi, krví a pelem v neživou kaši. Jediné, co jsem v poslední době byla s to nezkresleně přečíst, bylo velké tiskací M, podobající se blesku. Dost průser, když jste na knižním veletrhu.
 
@@ -305,7 +319,9 @@ Teď kdyby mě přistihla Tereza, štítící se bytostně manýrismu v život�
 
 Doma, než jsem kalendář uložila pod koberec, přečetla jsem si to věnování. „Magdě Jan, taky bejk.“ Tak to se teda povedlo. Splet se, Mistr. 1. červen jsou přece Blíženci, a já si dosud nenašla čas vyhledat jejich charakteristiku. Čtyřicetileté redaktorky, které si tykají s kdejakým literátem, přece pohrdají vírou v astrologii, nemluvě o kartách a upírech.
 
-  
+</section>
+
+<section>
 
 Poprvé za ten rok jsem nemluvila s Magdou víc jak osmačtyřicet hodin. Rozhodla jsem se, že jí nezavolám, a ona se neozvala. Pětadvacátého května v pondělí ráno se dostavilo nechutenství, nezvladatelný třas, závrať, úzkost, bolest hlavy a ztráta orientace, většina abstinenčních příznaků v plné polní. V 8.00 jsem se stočila kolem telefonu jako had. Telefon zazvonil přesně v 8.15.
 
@@ -361,7 +377,9 @@ Když jsem vyzvracela ten rozhovor – a nic jinýho ty krvavý chuchvalce nem
 
 Ten den jsem jí volala ještě snad dvacetkrát. Musela to zvedat, byla v práci. V půl páté jsem si opláchla tvář studenou vodou, umyla si hlavu, vypila sklenici fernetu a přejela si rty neslíbatelnou rtěnkou Margaret Astor – zkrátka provedla všechny úkony, jichž je třeba, aby mohli upíři mezi živé, a rozjela se na Chodov.
 
-  
+</section>
+
+<section>
 
 V metru jsem patrně na chvíli upadla do spánku. Zdálo se mi, že s Magdou stojíme v poušti. Nikde nic, jen písek a písek a v něm vybělené kosti a u lebek plastové kanystry na vodu. Magda je nahá, od hlavy k patě ověšená šperky. Dívá se mi upřeně do očí, hypnotizuje mě, taví mě svou vůlí… Začnu se chvět jako list papíru. Její pěst je sevřená, napřažená proti mně. Vím, že v ní drží skarabea. Vím, že ho musím dostat, proto jsem tu, v poušti, na světě, ale její pěst je stejně jako její vůle z kamene pyramid.
 
@@ -377,7 +395,9 @@ Lucie-zmije zasyčela: „Sakra nesahejte na mě, slyšíte?“
 
 Ovšemže jsem nepřijela kvůli tomu. Pravděpodobnější je, že se chystám nabídnout ti v příštích okamžicích doživotní bezplatné čištění bot.
 
-  
+</section>
+
+<section>
 
 A někdy burácejí jako symfonie, jindy duní jak house. Převážně z nich z ní trubka, jazz, a párkrát dokonce sklouzly do dechovky. Ano, místo spánku a jídla udržovaly mě v těch dnech při životě variace pomsty. Pila jsem je a jedla, myla se jimi a vdechovala je. Vhod mi přišly všechny, o nichž jsem snila ve Vítkově žlutém brouku, a mnohé další. Jediné, co přežilo v mé bytosti, byla představivost.
 
@@ -411,7 +431,9 @@ O dvě hodiny později jsem se přehrabovala na svém pracovním stole. Kolem k
 
 Byl tam, konečně jsem ho uviděla. V plechovce od čaje mezi propiskama, jednou s jin a jang a druhou s prsatou blondýnou. Skalpel. Zabodla jsem ho do rohlíku a vhodila do batůžku.
 
-  
+</section>
+
+<section>
 
 Věděla jsem, že mi otevře. Bála se, abych nezburcovala sousedy, přestože nás nikdo z baráku už dávno nezdravil, kromě krysaříka.
 
@@ -449,7 +471,9 @@ Po věčnosti ode mě odstoupila, sklonila se a zabodla skalpel zpátky do rohl
 
 Jak ve snu stála přede mnou nahá, ověšená šperky, a kolem se do nedohledna rozprostírala poušť.
 
-  
+</section>
+
+<section>
 
 Magdo, jsi tam? Tak si snad aspoň pustíš můj vzkaz. Pamatuješ… Vyprávěla jsem ti jednou o té koprolálické ženské, co se za mého mládí procházívala po Karlově mostě. Kupodivu tě to dost zaujalo, vydrželas mě tehdy poslouchat bezmála minutu, aniž bys mě přerušila. A pak ses zeptala, jestli by se mi to líbilo. Vyhnula jsem se odpovědi. Od té doby se z tebe při milování řinul proud obrazů a slov, nad nimiž zůstával rozum stát. Kde se to v tobě bralo? A kde ve mně? Do jakých slují, štol, kráterů, podmořských hloubek podvědomí jsme se tak lehkovážně spouštěly?
 
@@ -457,7 +481,9 @@ Vzrušovalo mě to, nepříčetně, a styděla jsem se. Vzrušovalo mě to, a 
 
 Začala jsem ti pak něžně přezdívat „moje čtvrtá cenová skupina“ a ty ses tomu smála svým šíleným smíchem, drkotajícím drahami mých nervů, neschůdnými cestami Transylvánských Alp, smíchem, s nímž budu umírat.
 
-  
+</section>
+
+<section>
 
 Lucie si sedla za Jakubův psací stůl a pomalu listovala diářem nazpět. Květen, duben, březen… Odříkávala se pozpátku, a výsledek na sebe nenechal dlouho čekat: brzy ji jakási síla odhodila do tunelu, který připomínal betonovou potrubní rouru, v níž si hrávala s Motyčkou na Petříně. Ta kruhová prostora byla však zrcadlová, v kruhu bloudilo i vše hmotné: sklo mělo vlastnosti ledu, led měl vlastnosti perleti a perleť zas skla. Odrážejíc se všude, Lucie brzy pochopila dík fyzikálním zákonům, proč se jí nemohlo podařit Magdu zabít: Magda přece nemohla být mrtvá, když Lucie žila!
 
@@ -465,17 +491,23 @@ V rozvalinách její zchátralé, zaplevelené domácnosti s igelitkami odpadk
 
 Z ran na stehnech, břiše, prsou, pažích, z ran ne delších než pijavice prudce rozkvétaly jedna po druhé drobné krůpěje krve. Jen na zápěstích přitlačila Lucie trochu víc: zatímco zuby drtila koprolálické mantry, modlitby pozpátku a ořech Magdina jména, proměnil se tunel v útěšnou jeskyni ženského těla, v něžný pra­počátek.
 
-  
+</section>
+
+<section>
 
 Musíš počítat s tím, Lucie, že čas od času se ty bolesti budou vracet, přepadnou tě náhle a bez předehry jako záchvat, uprostřed rozhovoru s blízkými, mezi dvěma zastávkami metra, až ze sebe nebudeš moct setřást náhodně potkanou spolužačku, kterou jsi neviděla deset let, až pootočíš klíčkem u schránky na dopisy, na prkýnku nádražního záchodku, v obuvi před vyrovnanou řadou lakovek, ta vůně kůže, pásků a kabelek, parfém, co tě právě minul v davu na Můstku, smrad chcanek z průjezdu na Žižkově, tvůj vlastní pach, který ti utkvěl na prstě, když ses hladila tam dole, všechny ty pachy a vůně ti ji mohou připomenout, protože jí nepatřila žádná, srazí tě to na kolena nečekaně a zákeřně jedinou ranou a z krku se ti bude drát psí vytí – rozkoš a bolest se prolínají jako prsty při modlitbě –, abys to vytí udržela uvnitř, Lucie, musíš si vrazit pěst mezi zuby a prudce skousnout, střídej hluboký dech a výdech a rychlé psí dýchání jako při porodu, jako když z tebe před osmnácti lety páčili Terezu, a hlavně se nemodli, Lucie, vydrž to, nemodlit se, protože pánbůh má jiný starosti a ono to za několik nekonečných minut přejde samo.
 
-  
+</section>
+
+<section>
 
 Konečně mi přišly odpovědi z Annonce. Celkem devět. Dvě z nich jsou nereprodukovatelné, protože pornografické. Jednu větu však lze přece ocitovat, a to díky překlepu: „Líbí se mi velmi chlupaté kuny.“
 
 Skočila jsem do špinavýho rybníka a rychle se v něm naučila plavat. I vy byste to dokázali – sexuální orientace v tom nehraje roli – pod jednou podmínkou: museli byste jako prvotní křesťané, buddhisti, blázni a bezdomovci zapomenout na zítřek.
 
-  
+</section>
+
+<section>
 
 Táta mi všechno řek, o mámě. Proč byla v blázinci a tak. Taky že je bez práce a žije bůhví z čeho. Nechtěl s ní mít už nic společnýho, to bylo jasný. Prohledala jsem šuplíky, kde jsme měli rodinný šperky. Nezůstalo v nich nic, ani ty perlový náušnice.
 
@@ -487,7 +519,9 @@ Volala jsem nějakýmu chlápkovi, co u něj teď máma údajně přespávala. 
 
 Ale já vím, kde ji najít.
 
-  
+</section>
+
+<section>
 
 Z profesionálně účastného výrazu barmanky bylo zřejmý, že tu její story slyší postý. Máma do ní hučela, ruce se jí třásly, její prsty si s něčím hrály. Nedařilo se mi rozeznat, co se jí leskle míhá v těch prstech – bylo tu přítmí, hustý a rudý, oči se mi zalily štiplavostí.
 
@@ -497,7 +531,9 @@ Bylo to kružítko. Koukám se, jak zabodává hrot do potrhaného časopisu, re
 
 Když jsme vycházely z Áčka, z tý barvy krve do dne, a ona stoupala po schodech přede mnou, vypadla jí málem ze zadní kapsy kalhot malá knížka. No jo. Mstivá kantiléna od Hlaváčka. Vždycky když se nalila, bavila celou společnost veselou historkou, jak maturovala z dekadence.
 
-  
+</section>
+
+<section>
 
 Vzhlédla jsem od baru. Přede mnou stála Tereza.
 
@@ -517,15 +553,21 @@ Lovci perel na japonském pobřeží vydrží prý bez přístrojů pod hladinou
 
 Líbí se mi tu. Už v mládí byla přece komuna mým vysněným sociálním modelem, a navíc jsem tu našla i svoje Běsy. Otevřela jsem je na první straně. Bylo tam motto od Puškina:
 
-  
+</section>
+
+<section>
 
 _Zab mě třeba, stopa všecka  
 ztracena – a cesta s ní!  
 Běs nás vodí do kolečka,  
 po polích nás prohání._
 
-  
+</section>
+
+<section>
 
 Ještě mám trochu peněz, trochu času a pár cigaret. Na jak dlouho? Je to tu fajn, vážně, až na ten plakát na zdi: vím, že symboly jsou jen symboly a znaky jen znaky, ale upřímně řečeno bych přece jen žila radši s výhledem na Marilyn Monroe než na fousatýho kubánskýho revolucionáře.
 
 Srpen 1998 – srpen 1999
+
+</section>
