@@ -1,0 +1,214 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Rok perel",
+  "author": "Zuzana Brabcová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "brabcova-rok-perel-076dccf",
+  "revision": "076dccf",
+  "readingOrder": [
+    "promo.html",
+    "rok_perel_005.html",
+    "rok_perel_006.html",
+    "rok_perel_007.html",
+    "rok_perel_008.html",
+    "rok_perel_009.html",
+    "rok_perel_010.html",
+    "rok_perel_011.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jun 22 2022 09:03:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655888617882
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "rok_perel_005.html",
+      "toc": []
+    },
+    {
+      "title": "Rok perel",
+      "file": "rok_perel_005.html",
+      "words": 10,
+      "chars": 47,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "rok_perel_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I  Krev, pachy, bílé fidorkya jiné závislosti",
+      "file": "rok_perel_006.html",
+      "words": 7,
+      "chars": 45,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "rok_perel_005.html",
+      "next": "rok_perel_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I  Krev, pachy, bílé fidorkya jiné závislosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rok perel",
+      "file": "rok_perel_007.html",
+      "words": 17562,
+      "chars": 105209,
+      "ideas": 595,
+      "role": "chapter",
+      "order": 3,
+      "prev": "rok_perel_006.html",
+      "next": "rok_perel_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II  Černá skříňka",
+      "file": "rok_perel_008.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "rok_perel_007.html",
+      "next": "rok_perel_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II  Černá skříňka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rok perel",
+      "file": "rok_perel_009.html",
+      "words": 34973,
+      "chars": 210640,
+      "ideas": 1066,
+      "role": "chapter",
+      "order": 5,
+      "prev": "rok_perel_008.html",
+      "next": "rok_perel_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III Hezké chvíleve vašem spodním prádle",
+      "file": "rok_perel_010.html",
+      "words": 6,
+      "chars": 39,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "rok_perel_009.html",
+      "next": "rok_perel_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III Hezké chvíleve vašem spodním prádle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rok perel",
+      "file": "rok_perel_011.html",
+      "words": 8578,
+      "chars": 51139,
+      "ideas": 246,
+      "role": "chapter",
+      "order": 7,
+      "prev": "rok_perel_010.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 131,
+      "chars": 841,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "rok_perel_011.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 61276,
+      "chars": 368012,
+      "ideas": 1932
+    },
+    "chapters": {
+      "words": 61139,
+      "chars": 367136,
+      "ideas": 1913
+    }
+  }
+}
