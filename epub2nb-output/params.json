@@ -66,7 +66,7 @@
             "filename": "rok_perel_003.md",
             "xhtml": "rok_perel_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -78,7 +78,7 @@
             "filename": "rok_perel_004.md",
             "xhtml": "rok_perel_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -181,7 +181,7 @@
             "filename": "rok_perel_012.md",
             "xhtml": "rok_perel_012.xhtml",
             "id": 11,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -349,6 +349,6 @@
       "user": "books-are-next",
       "repo": "brabcova-rok-perel"
     },
-    "generatedAt": 1655978008326
+    "generatedAt": 1657181654441
   }
 }

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "brabcova-rok-perel-d626031",
-  "revision": "d626031",
+  "identifier": "brabcova-rok-perel-7a10aef",
+  "revision": "7a10aef",
   "readingOrder": [
     "promo.html",
     "rok_perel_005.html",
@@ -19,11 +19,11 @@
     "rok_perel_009.html",
     "rok_perel_010.html",
     "rok_perel_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:55:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978101514
+    "date": "Thu Jul 07 2022 08:17:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181847528
   },
   "documents": [
     {
@@ -167,7 +167,7 @@
       "role": "chapter",
       "order": 7,
       "prev": "rok_perel_010.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -180,11 +180,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 131,
-      "chars": 841,
+      "chars": 840,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "rok_perel_011.html",
       "next": null,
@@ -202,7 +202,7 @@
   "totals": {
     "all": {
       "words": 61276,
-      "chars": 368012,
+      "chars": 368011,
       "ideas": 1932
     },
     "chapters": {
