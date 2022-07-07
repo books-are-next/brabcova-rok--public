@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "brabcova-rok-perel-7a10aef",
-  "revision": "7a10aef",
+  "identifier": "brabcova-rok-perel-6b65282",
+  "revision": "6b65282",
   "readingOrder": [
     "promo.html",
     "rok_perel_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:17:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657181847528
+    "date": "Thu Jul 07 2022 09:57:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657187871957
   },
   "documents": [
     {
