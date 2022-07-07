@@ -22,7 +22,7 @@ readingOrder:
   - rok_perel_009.html
   - rok_perel_010.html
   - rok_perel_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
