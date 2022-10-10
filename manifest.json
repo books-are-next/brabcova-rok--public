@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "brabcova-rok-perel-a465216",
-  "revision": "a465216",
+  "identifier": "brabcova-rok-perel-72c3d51",
+  "revision": "72c3d51",
   "readingOrder": [
     "promo.html",
     "rok_perel_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:01:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151313836
+    "date": "Mon Oct 10 2022 15:53:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417212996
   },
   "documents": [
     {
@@ -182,7 +182,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 131,
-      "chars": 841,
+      "chars": 842,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -202,7 +202,7 @@
   "totals": {
     "all": {
       "words": 61276,
-      "chars": 368012,
+      "chars": 368013,
       "ideas": 1932
     },
     "chapters": {
