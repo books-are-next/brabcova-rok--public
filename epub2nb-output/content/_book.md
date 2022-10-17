@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   contentType: prose
+  isbn: 978-80-274-2837-3
 readingOrder:
   - promo.html
   - rok_perel_005.html
